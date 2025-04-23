@@ -6,11 +6,7 @@ Ce projet déploie une instance EC2 sur AWS via Terraform, avec une configuratio
 
 ## 📦 Contenu du projet
 
-- `main.tf` – Déclaration du provider AWS et de l’instance EC2
-- `variables.tf` – Définition des variables utilisées dans le projet
-- `terraform.tfvars` – Valeurs concrètes des variables pour cet environnement
-- `README.md` – Documentation du projet
-
+- `ec2.tf` – Déclaration du provider AWS et de l’instance EC2
 ---
 
 ## ✅ Prérequis
